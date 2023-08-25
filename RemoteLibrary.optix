@@ -20,6 +20,6 @@ Project:
   5:
    Uri: 'urn:FTOptix:UI'
    Module: FTOptix.UI
-   Version: 5.0
+   Version: 6.0
  Nodes:
  - File: Nodes/RemoteLibrary.yaml
