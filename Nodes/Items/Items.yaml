@@ -9,7 +9,7 @@ Children:
     Supertype: Label
     ReferenceType: HasComponent
     Children:
-    - Name: Text
+    - Name: Text1
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
