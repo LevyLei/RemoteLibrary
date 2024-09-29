@@ -22,3 +22,4 @@ Children:
       DataType: LocalizedText
       ModellingRule: Optional
       Value: {"LocaleId":"en-US","Text":"Label1"}
+- File: NewFolder/NewFolder.yaml
