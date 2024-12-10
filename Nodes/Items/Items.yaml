@@ -23,3 +23,4 @@ Children:
       ModellingRule: Optional
       Value: {"LocaleId":"en-US","Text":"Label1"}
 - File: NewFolder/NewFolder.yaml
+- File: NewFolder1/NewFolder1.yaml
