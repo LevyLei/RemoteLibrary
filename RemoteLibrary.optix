@@ -22,8 +22,8 @@ Project:
    Module: FTOptix.UI
    Version: 14.2
  Statistics:
-  TotalNodeCount: 20
-  Objects: 12
+  TotalNodeCount: 21
+  Objects: 13
   ObjectTypes: 1
   Variables: 7
   VariableTypes: 0
@@ -31,6 +31,6 @@ Project:
   Methods: 0
   References: 0
   ReferenceTypes: 0
-  Files: 7
+  Files: 8
  Nodes:
  - File: Nodes/RemoteLibrary.yaml
